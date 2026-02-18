@@ -297,7 +297,7 @@ const Edit: React.FC = () => {
 
           {/* Submit button */}
           <div className="form-field">
-            <Button type="submit" variant="outline-success">
+            <Button type="submit" className="btn btn-md" variant="primary">
               Save
             </Button>
           </div>
